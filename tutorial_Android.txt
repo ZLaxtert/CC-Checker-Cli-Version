@@ -1,0 +1,20 @@
+How to install steps run with android (Termux) :
+
+type "pkg update && upgrade"
+type "pkg install php"
+type "termux-setup-storage"
+navigate to where you saved the file. 
+example: 
+I put in the "downloads" folder, so the command word:
+cd storage
+cd downloads
+cd cc-slow
+then run the program type "php (example.php)"
+Past your cc list in the (example.txt) 
+
+--- Enjoy ----
+
+
+                 !!!Follow us!!!
+
+====[https://t.me/zlaxtert]====
